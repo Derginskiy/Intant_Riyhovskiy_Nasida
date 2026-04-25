@@ -1,13 +1,9 @@
 Название приложения: Контактная книга
 
-Разработчик: Галиев Григорий
+Разработчик: Ряховский Даниил, Насида Алексей
 
-<img width="268" height="511" alt="image" src="https://github.com/user-attachments/assets/9577921b-7dc3-45d3-80bb-cb1f462d2d1f" />
-
-<img width="265" height="513" alt="image" src="https://github.com/user-attachments/assets/fdc2e0b8-b972-4cc0-ab81-617d847cf595" />
-
-<img width="267" height="525" alt="image" src="https://github.com/user-attachments/assets/a8605b52-ed77-4e78-8f63-323b146ea80d" />
-
-<img width="275" height="507" alt="image" src="https://github.com/user-attachments/assets/83ebf2fd-c4e0-476c-abee-19b91c6ac27a" />
-
-<img width="264" height="512" alt="image" src="https://github.com/user-attachments/assets/f6e202b5-7ef1-4cde-99cc-625eb56254ec" />
+<img width="606" height="1280" alt="ssssss" src="https://github.com/user-attachments/assets/b1c9c006-ac6b-4e48-9a9f-cf2002f6a34b" />
+<img width="606" height="1280" alt="sssss" src="https://github.com/user-attachments/assets/8b0c1baf-effa-433f-87b2-cdcc6042f3aa" />
+<img width="606" height="1280" alt="ssss" src="https://github.com/user-attachments/assets/821994cb-ad22-4721-b928-4b62de6a4b01" />
+<img width="606" height="1280" alt="sss" src="https://github.com/user-attachments/assets/d6bb6954-2c85-466d-b904-1e5ac47a0d12" />
+<img width="606" height="1280" alt="ss" src="https://github.com/user-attachments/assets/4e43ab67-ae26-4d6d-a17c-24f3d9f400e6" />
